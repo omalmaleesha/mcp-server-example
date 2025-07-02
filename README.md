@@ -70,7 +70,7 @@ Edit `~/Library/Application Support/Claude/claude_desktop_config.json`:
 {
     "mcpServers": {
         "mcp-server": {
-            "command": "uv",  # It's better to use the absolute path to the uv command
+            "command": "", 
             "args": [
                 "--directory",
                 "/path to your mcp-server",
