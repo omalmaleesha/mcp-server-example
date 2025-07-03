@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.env.*
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Lock files
+poetry.lock
+Pipfile.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Test output
+htmlcov/
+.coverage
+.cache/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
